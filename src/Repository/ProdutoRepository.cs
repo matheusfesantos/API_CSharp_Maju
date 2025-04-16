@@ -9,6 +9,7 @@ namespace ProdutoRepository.Repository
         Produtos GetByID(int id);
         void Add(Produtos produtos);
         void Update(Produtos produtos);
-        
+
+        void Delete(int id);
     }
 }
