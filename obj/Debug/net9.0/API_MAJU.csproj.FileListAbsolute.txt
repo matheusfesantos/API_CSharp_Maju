@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\API_Maju\obj\Debug\net9.0\API_MAJU.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\API_Maju\obj\Debug\net9.0\API_MAJU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\API_Maju\obj\Debug\net9.0\API_MAJU.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\API_Maju\obj\Debug\net9.0\API_MAJU.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\API_Maju\obj\Debug\net9.0\API_MAJU.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\API_Maju\obj\Debug\net9.0\API_MAJU.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\API_Maju\obj\Debug\net9.0\API_MAJU.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\API_Maju\obj\Debug\net9.0\API_MAJU.sourcelink.json

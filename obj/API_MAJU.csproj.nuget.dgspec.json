@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\API_Maju\\API_MAJU\\API_MAJU.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\API_Maju\\API_MAJU.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\API_Maju\\API_MAJU\\API_MAJU.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\API_Maju\\API_MAJU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\API_Maju\\API_MAJU\\API_MAJU.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\API_Maju\\API_MAJU.csproj",
         "projectName": "API_MAJU",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\API_Maju\\API_MAJU\\API_MAJU.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\API_Maju\\API_MAJU.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\API_Maju\\API_MAJU\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\API_Maju\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
